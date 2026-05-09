@@ -24,7 +24,10 @@
   </p>
 
 <h3>🌐 Socials</h3>
-  
+  <p align="left">
+  <a href="https://withcyril.me/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 <p align="left">
   <a href="https://dev.to/Cyrilthetecchieee">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
